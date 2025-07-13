@@ -7,3 +7,4 @@ new_feat ch2 merge
 change 5
 
 new_feat ch1
+end
